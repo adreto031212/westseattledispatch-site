@@ -1,0 +1,20 @@
+# West Seattle Dispatch
+
+> The West Seattle Dispatch is a free weekly email newsletter about Seattle, WA, sent Thursdays at 6 AM Pacific and published by Neighborhood Press LLC. It covers city council decisions, land-use and permit notices, road and transit changes, school district news, openings and closings, with one section per neighborhood. Every item links its public source. It is researched and written with AI tools, and an editor reads every issue before it goes out.
+
+## Key pages
+- [This week in West Seattle](https://www.westseattledispatch.com/this-week/): the dated items for the current week, updated every Thursday
+- [Standards](https://www.westseattledispatch.com/standards/): publisher, sources, sponsors, corrections
+- [Subscribe](https://www.westseattledispatch.com/): free, one email a week
+
+## Neighborhoods
+- [Alki](https://www.westseattledispatch.com/alki/): Alki Beach Park along Alki Avenue SW, the Alki Point Light Station, Duwamish Head, and Me-Kwa-Mooks Park and the Emma Schmitz Memorial Overlook on Beach Drive SW.
+- [North Admiral](https://www.westseattledispatch.com/north-admiral/): The Admiral business district on California Avenue SW at SW Admiral Way, Hiawatha Playfield, Hamilton Viewpoint Park and the old-growth forest of Schmitz Preserve Park.
+- [West Seattle Junction](https://www.westseattledispatch.com/west-seattle-junction/): California Avenue SW at SW Alaska Street, the Junction's shops and restaurants, the Sunday farmers market and the Genesee hillside to the north.
+- [Fairmount Park](https://www.westseattledispatch.com/fairmount-park/): The streets east of California Avenue SW between the Junction and Morgan Junction, with Fairmount Playfield on Fauntleroy Way SW.
+- [Seaview](https://www.westseattledispatch.com/seaview/): The slope west of California Avenue SW down toward Beach Drive SW and Puget Sound, with Morgan Junction Park and the view west to the Olympics.
+- [Morgan Junction](https://www.westseattledispatch.com/morgan-junction/): The Morgan Junction business district where California Avenue SW meets Fauntleroy Way SW, and the Gatewood hill to the east with the Orchard Street Ravine.
+- [Fauntleroy](https://www.westseattledispatch.com/fauntleroy/): Lincoln Park on Puget Sound, the Fauntleroy ferry dock to Vashon and Southworth, Solstice Park and the creek and trails of Fauntleroy Park.
+- [North Delridge](https://www.westseattledispatch.com/north-delridge/): Delridge Way SW under the West Seattle Bridge, with Delridge Playfield, Pigeon Point Park, Camp Long, the West Seattle Golf Course and West Seattle Stadium.
+- [High Point](https://www.westseattledispatch.com/high-point/): The streets east of 35th Avenue SW around SW Morgan Street, with High Point Commons Park and the Longfellow Creek trail.
+- [Highland Park](https://www.westseattledispatch.com/highland-park/): The hilltop east of Delridge along Highland Park Way SW, with Highland Park Playground and the trails and off-leash area of Westcrest Park.
