@@ -4,6 +4,8 @@
 
 ## Key pages
 - [This week in West Seattle](https://www.westseattledispatch.com/this-week/): the dated items for the current week, updated every Thursday
+- [West Seattle news](https://www.westseattledispatch.com/news/): every story, newest first
+- [Reader asked](https://www.westseattledispatch.com/asked/): readers' questions answered from the public record
 - [Standards](https://www.westseattledispatch.com/standards/): publisher, sources, sponsors, corrections
 - [Subscribe](https://www.westseattledispatch.com/): free, one email a week
 
@@ -18,3 +20,10 @@
 - [North Delridge](https://www.westseattledispatch.com/north-delridge/): Delridge Way SW under the West Seattle Bridge, with Delridge Playfield, Pigeon Point Park, Camp Long, the West Seattle Golf Course and West Seattle Stadium.
 - [High Point](https://www.westseattledispatch.com/high-point/): The streets east of 35th Avenue SW around SW Morgan Street, with High Point Commons Park and the Longfellow Creek trail.
 - [Highland Park](https://www.westseattledispatch.com/highland-park/): The hilltop east of Delridge along Highland Park Way SW, with Highland Park Playground and the trails and off-leash area of Westcrest Park.
+
+## Latest
+- [Alki gets the first Christmas Ship bonfire of the season, Friday, November 27, at 6 PM](https://www.westseattledispatch.com/news/2026-11-19-alki-gets-the-first-christmas-ship-bonfire-of-the-season-friday-novemb/) (2026-11-19)
+- [Highland Park Way SW and SW Roxbury Street are getting grippier pavement from a $9.7 million federal grant](https://www.westseattledispatch.com/news/2026-11-19-highland-park-way-sw-and-sw-roxbury-street-are-getting-grippier-paveme/) (2026-11-19)
+- [The Fauntleroy ferry dock gets a traffic signal before its rebuild](https://www.westseattledispatch.com/news/2026-11-19-the-fauntleroy-ferry-dock-gets-a-traffic-signal-before-its-rebuild/) (2026-11-19)
+- [the drain on your corner](https://www.westseattledispatch.com/news/2026-11-19-the-drain-on-your-corner/) (2026-11-19)
+- [Why SW Admiral Way, the climb from the West Seattle Bridge, is still posted at 25 mph, and whether it could go back up](https://www.westseattledispatch.com/asked/2026-11-19-why-sw-admiral-way-the-climb-from-the-west-seattle-bridge-is-still-pos/) (2026-11-19)
